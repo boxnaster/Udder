@@ -18,5 +18,9 @@ class ViewController: UIViewController {
         //meow
     }
 
+    override func viewDidDisappear(_ animated: Bool) {
+        //meow
+    }
+
 }
 
